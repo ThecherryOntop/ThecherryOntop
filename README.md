@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ThecherryOntop
-- 👀 I’m interested in Software Engineering and Blochain development 
-- 🌱 I’m currently learning Software Engineering 
+- 👀 I’m interested in Data Science and Automation 
+- 🌱 I’m currently learning Data Science with ALX
 - 💞️ I’m looking to collaborate on coding 
-- 📫 How to reach me @rachaelosiyai@gmail.com
+- 📫 How to reach me @mofeosiyai.mo@gmail.com
 
 <!---
 ThecherryOntop/ThecherryOntop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
